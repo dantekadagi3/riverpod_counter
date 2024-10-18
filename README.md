@@ -1,8 +1,6 @@
 # riverpod_counter
 
-Here's a lively and detailed README explaining Riverpod in Flutter, along with its features and advantages:
 
----
 
 # Riverpod in Flutter 🐦
 
